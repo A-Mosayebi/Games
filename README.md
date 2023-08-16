@@ -1,2 +1,2 @@
 # Games
-developing simple games with js and python
+Developing simple games with js and python
